@@ -6,22 +6,22 @@ Bu proje, bir Producer ve bir Consumer uygulaması geliştirir. Producer uygulam
 
 1. Bu repoyu klonlayın:
 ```sh
-git clone https://github.com/emirhantulimat/CDC-Kafka-MongoDB`
-````
+git clone https://github.com/emirhantulimat/CDC-Kafka-MongoDB
+```
 
 2. Proje dizinine gidin: 
 ```sh
-`cd CDC-Kafka-MongoDB`
+`cd CDC-Kafka-MongoDB
 ```
 
 3. Docker imajlarını oluşturun: 
 ```sh
-`docker-compose build`
+`docker-compose build
 ```
 
 4. Docker hizmetlerini başlatın:
 ```sh
-`docker-compose up -d`
+`docker-compose up -d
 ```
 
 
