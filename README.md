@@ -21,7 +21,7 @@ docker-compose build
 
 4. Docker hizmetlerini başlatın:
 ```sh
-docker-compose up -d
+docker-compose up
 ```
 
 
