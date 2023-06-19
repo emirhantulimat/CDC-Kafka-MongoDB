@@ -38,6 +38,9 @@ MongoDB ye Veri giriş arayüzü
 Kafka mesajların terminal üzerinde görüntülenmesi
 <img src="./images/img2.png" alt="img2">
 
+Kafdrop arayüzü üzerinden mesajların görüntülenmesi
+<img src="./images/img3.png" alt="img3">
+
 
 
 ## Kullanılan Teknolojiler
