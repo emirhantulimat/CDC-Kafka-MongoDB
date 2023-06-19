@@ -39,9 +39,12 @@ Kafka mesajların terminal üzerinde görüntülenmesi
 <img src="./images/img2.jpg" alt="img2">
 
 Kafdrop arayüzü üzerinden mesajların görüntülenmesi
-  <img src="./images/img3.jpg" alt="img3">
+<img src="./images/img3.jpg" alt="img3">
 
+## Projenin Diyagramı
 
+Kafdrop arayüzü üzerinden mesajların görüntülenmesi
+<img src="./images/img4.jpg" alt="img4">
 
 ## Kullanılan Teknolojiler
 
