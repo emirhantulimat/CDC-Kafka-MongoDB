@@ -52,4 +52,4 @@ Kafka mesajların terminal üzerinde görüntülenmesi
 
 ## Lisans
 
-Bu proje [MIT Lisansı](LICENSE.md) altında lisanslanmıştır.
+Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
