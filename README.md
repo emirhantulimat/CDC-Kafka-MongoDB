@@ -29,8 +29,8 @@ docker-compose up
 
 Docker hizmetlerini başlattıktan sonra, Producer ve Consumer uygulamaları otomatik olarak çalışmaya başlar. Üretici, her 10 saniyede bir MongoDB collection yeni document için kontrol eder ve yeni document Kafka konusuna yayınlar. Consumer, Kafka konusundan message tüketir ve onları konsola yazdırır.
 
-mongoDB'ye veri yazmak için [localhost:5000](localhost:5000) adresini kullanmalısınız.
-Kafka topiclerini incelemek için kafdrop arayüzü kullanılmıştır.  [localhost:9000](localhost:9000) adresine girerek inceleyebilirsiniz.
+mongoDB'ye veri yazmak için [localhost:5000](http://localhost:5000) adresini kullanmalısınız.
+Kafka topiclerini incelemek için kafdrop arayüzü kullanılmıştır.  [localhost:9000](http://localhost:9000) adresine girerek inceleyebilirsiniz.
 
 MongoDB ye Veri giriş arayüzü
 <img src="./images/img1.jpg" alt="img1">
